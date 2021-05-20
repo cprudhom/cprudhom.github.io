@@ -13,7 +13,7 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
-  border-color: white;
+  border-color: black;
   border-width: 3px;
   max-width: 50px;
 }
@@ -24,7 +24,10 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #A9B7C0;/*C7D8C6*/
+  color: #C7D8C6;
+}
+.bg-primary a {
+  color: white;
 }
 a:hover,
 a:focus {
