@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg60"
+   sodipodi:docname="Pissenlit.svg"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)">
+  <circle cx="100" cy="100" r="60" stroke="#C7D8C6" stroke-width="8" fill="none" />
+  <line x1="50" y1="50" x2="150" y2="150" stroke="#C7D8C6" stroke-width="8" />
+  <line x1="150" y1="50" x2="50" y2="150" stroke="#C7D8C6" stroke-width="8" />
+</svg>
